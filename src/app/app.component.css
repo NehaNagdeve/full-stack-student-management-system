@@ -1,0 +1,13 @@
+.demo2{
+    float:left;
+    width:30%;
+    border-style: dotted;
+    background-color: aqua;
+}
+
+.demo3 img{
+    width:40%;
+    float:right;
+    height:50%; 
+    padding-right: 20px;
+}
